@@ -1,13 +1,18 @@
-_Spring Web,
-Spring Boot DevTools,
-Lombok,
-Spring Data JPA,
-Validation,
-Flyway Migration e
-PostgreSQL Driver_
 
-**Banco de dados postgresql,**
-**Insomnia para testar as requisições https**
+
+<br>Aplicação CRUD "loja"
+
+<br>_Spring Web,
+<br>Spring Boot DevTools,
+<br>Lombok,
+<br>Spring Data JPA,
+<br>Validation,
+<br>Flyway Migration e
+<br>PostgreSQL Driver_
+
+
+<br>**Banco de dados postgresql,**
+<br>**Insomnia para testar as requisições https**
 
 ![db](https://github.com/gabbdietrich/crudAplication/assets/99931851/c56c5856-3a08-4d1c-a479-06166b2faf14)
 ![delet](https://github.com/gabbdietrich/crudAplication/assets/99931851/1017b638-3f53-4df7-87cb-d952a5eb645c)
