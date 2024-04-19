@@ -1,9 +1,9 @@
-_Spring Web
-Spring Boot DevTools
-Lombok
-Spring Data JPA
-Validation
-Flyway Migration
+_Spring Web,
+Spring Boot DevTools,
+Lombok,
+Spring Data JPA,
+Validation,
+Flyway Migration e
 PostgreSQL Driver_
 
 **Banco de dados postgresql,**
