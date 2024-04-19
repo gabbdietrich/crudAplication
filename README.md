@@ -6,7 +6,7 @@ Validation
 Flyway Migration
 PostgreSQL Driver_
 
-**Banco de dados postgresql**
+**Banco de dados postgresql,**
 **Insomnia para testar as requisições https**
 
 ![db](https://github.com/gabbdietrich/crudAplication/assets/99931851/c56c5856-3a08-4d1c-a479-06166b2faf14)
